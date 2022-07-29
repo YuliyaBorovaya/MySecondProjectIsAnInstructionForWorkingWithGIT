@@ -1,0 +1,8 @@
+git init – initialization: specify the folder where git will start tracking changes
+git status – shows the current state of the git, whether there are changes that need to be monitored
+git add file name.extension – adds the contents of the working directory to the index for the next commit. This command is given after adding files
+git commit -a -m "file name.text extension"– fix or save
+git log – change log. Use it to see the number of saves
+git checkout – switching between versions
+git checkout master – return to the commit in which we are working
+git diff – показывает разницу между текущим файлом и сохраненным. Также используем перед переключением версии файла в Гит, чтобы увидеть количество сохранений
